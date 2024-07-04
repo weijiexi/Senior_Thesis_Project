@@ -1,4 +1,8 @@
 # Senior Thesis Project 
+
+![](https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior+project.jpg)
+
+Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. 
 ## Artist Statement
 ### “Meditation” 2024
 In my artistic journey, I am driven by a deep fascination with the convergence of tradition and innovation, seeking to bridge the gap between craftsmanship and technology. My latest endeavor manifests as an interactive painting that marries the intricate beauty of batik art with the dynamic possibilities of modern electronics. 
