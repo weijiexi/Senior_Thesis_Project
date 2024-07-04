@@ -1,7 +1,7 @@
 # Senior Thesis Project 
 <p align="center"> 
 
-<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="225" style="width: 400px; height: 225px;">
+<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="300" style="width: 400px; height: 225px;">
 </p>
 
 ---
