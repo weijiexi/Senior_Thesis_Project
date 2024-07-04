@@ -1,7 +1,7 @@
 # Senior Thesis Project 
 <p align="center"> 
 
-<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="900" height="580" style="width: 900px; height: 580px;">
+<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="950" height="606" style="width: 950px; height: 606px;">
 </p>
 <p align="center" >Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. </p>
 
