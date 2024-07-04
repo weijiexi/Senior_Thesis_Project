@@ -1,9 +1,14 @@
 # Senior Thesis Project 
+<p align="center"> 
 
-![](https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg)
+<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="225" style="width: 400px; height: 225px;">
+</p>
+
+---
 
 <p align="center" ><a href="https://bloomtech-1.wistia.com/medias/ytz5zeh3m0" >
-<img src="https://ucb-courses.s3.us-west-1.amazonaws.com/CS198-99/bloom/1.1-User-Interface-and-Git/Module_1-User-Interface/Objects/img/Video_clip.png" width="400" height="225" style="width: 400px; height: 225px;"></a></p> 
+<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="225" style="width: 400px; height: 225px;">
+</a></p> 
 
 Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. 
 ## Artist Statement
