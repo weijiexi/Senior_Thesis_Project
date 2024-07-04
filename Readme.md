@@ -1,3 +1,6 @@
+# Artist Statement
+
+
 # Project: Touch and Mapping
 
 Yes, the project tech part is based on: `touch`, and `mapping`.
