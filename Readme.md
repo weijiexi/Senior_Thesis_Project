@@ -4,7 +4,6 @@
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="900" height="580" style="width: 900px; height: 580px;">
 </p>
 
----
 
 <p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="280" style="width: 400px; height: 280px;">
