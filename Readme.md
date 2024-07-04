@@ -3,13 +3,13 @@
 
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="900" height="580" style="width: 900px; height: 580px;">
 </p>
-
+<p align="center" >Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. </p>
 
 <p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="400" height="280" style="width: 400px; height: 280px;">
 </a></p> 
 
-Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. 
+
 ## Artist Statement
 ### “Meditation” 2024
 In my artistic journey, I am driven by a deep fascination with the convergence of tradition and innovation, seeking to bridge the gap between craftsmanship and technology. My latest endeavor manifests as an interactive painting that marries the intricate beauty of batik art with the dynamic possibilities of modern electronics. 
