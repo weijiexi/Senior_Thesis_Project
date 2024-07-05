@@ -4,14 +4,14 @@
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="950" height="606" style="width: 950px; height: 606px;">
 </p>
 <p align="center" >Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. </p>
-
-<p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
-<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video01.jpg" width="400" height="280" style="width: 400px; height: 280px;">
-</a></p> 
-<p align="center" ><a href="https://www.youtube.com/watch?v=S7fqfisucRM" >
-<img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video02.jpg" width="400" height="280" style="width: 400px; height: 280px;">
-</a></p> 
-
+<div display="inline">
+  <p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
+  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video01.jpg" width="400" height="280" style="width: 400px; height: 280px;">
+  </a></p> 
+  <p align="center" ><a href="https://www.youtube.com/watch?v=S7fqfisucRM" >
+  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video02.jpg" width="400" height="280" style="width: 400px; height: 280px;">
+  </a></p> 
+</div>
 
 ## Artist Statement
 ### “Meditation” 2024
