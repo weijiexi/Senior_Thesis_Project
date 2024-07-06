@@ -6,7 +6,7 @@
 <p align="center" font-size="5" style="font-size:5px;" >Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. </p>
 <div >
   <p align="center" ><a href="https://www.youtube.com/watch?v=F6PyboU50sw" >
-  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video01.jpg" width="400" height="280" style="width: 400px; height: 280px;">
+  <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video01.jpg" width="600" height="436" style="width: 600px; height: 436px;">
   </a></p> 
   <p align="center" ><a href="https://www.youtube.com/watch?v=S7fqfisucRM" >
   <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/Senior_project_video02.jpg" width="400" height="280" style="width: 400px; height: 280px;">
