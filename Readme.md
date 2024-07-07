@@ -4,7 +4,6 @@
 <img src="https://ucb-courses-materials.s3.us-east-2.amazonaws.com/images/senior-project/senior+project.jpg" width="950" height="606" style="width: 950px; height: 606px;">
 </p>
 <p align="center" >Meditation, 2024. Interactive painting, video in TouchDesigner, batik dye on fabric, electric paint, touch board kit, 24 x 36” and 5:00. </p>
-
 <p align="left" >Meditation has two parts: on top is a batik painting, and below is circuitry made with a Touch Board. A projector is triggered to unveil dynamic 3D animation and sound as viewers interact by touching the center area of the canvas. This work aims to convey a serene and profound energy inspired by the natural world, encouraging viewers to immerse themselves in comfort, serenity, and meditation.</p>
 
 
